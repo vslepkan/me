@@ -139,3 +139,7 @@ svg {
     margin-left: 1.75rem;
   }
 }
+
+.projects li {
+  margin-bottom: 1.5rem;
+}
